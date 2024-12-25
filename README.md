@@ -2,45 +2,45 @@
 Author - Riza Ali Software Engineer
 <br>
 
-1 =>   Download & Install Git from Google
-2 =>   git config --global user.name "Name"
-3 =>   git config --global user.email "Email"
-4 =>   git init 
-5 =>   dir -h
-6 =>   git status
-7 =>   git add filename.extension/ . git add -A , git add --all (add all files)
-8 =>   git commit -m "message"
+1 =>   Download & Install Git from Google   <br>
+2 =>   git config --global user.name "Name" <br>
+3 =>   git config --global user.email "Email"   <br>
+4 =>   git init     <br>
+5 =>   dir -h   <br>
+6 =>   git status   <br>
+7 =>   git add filename.extension/ . git add -A , git add --all (add all files) <br>
+8 =>   git commit -m "message"  <br>
 
-Create branch
-git branch (to track the branch)
-git branch branch-name               git branch design
+Create branch <br>
+git branch (to track the branch)    <br>
+git branch branch-name               git branch design      <br>
  
-Switching the branch
-git checkout branch-name             git checkout design
+Switching the branch <br>
+git checkout branch-name             git checkout design    <br>
 
-git branch
+git branch      <br>
 
-create style.css 
+create style.css <br>
 
-Now switch to master                git checkout master
+Now switch to master                git checkout master         <br>
 
-Now merge to master                 git merge contact
+Now merge to master                 git merge contact           <br>
 
-Delete branch                       git branch -d branch-name
+Delete branch                       git branch -d branch-name      <br>
 
-Now we wll move this folder to GitHub
+Now we wll move this folder to GitHub  <br>
 
-Create new repository
+Create new repository <br>
 
-git remote add origin url
+git remote add origin url       <br>
 
-git branch -M main
+git branch -M main      <br>
 
-git push origin main
+git push origin main        <br>
 
-=> Login into your GitHub Account
+=> Login into your GitHub Account       <br>
 
-Refresh the page You will see the changes in your Repository 
+Refresh the page You will see the changes in your Repository <br>
 
 
 
